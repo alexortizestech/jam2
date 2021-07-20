@@ -32,7 +32,7 @@ public class Score : MonoBehaviour
     {
         currentScore += 1 * Time.deltaTime;
         text.text = "Score "+currentScore.ToString("F0");
-        TotalCount = GoodCount + GreatCount + PerfectCount;
+        TotalCount = GoodCount*0.5f + GreatCount*0.75f + PerfectCount;
         Percentage = (TotalCount / totalNotes) * 100f;
         slider.value = Percentage;
         prc.text = Percentage.ToString("F2") + " %";
