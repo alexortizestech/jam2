@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MusicNotes : MonoBehaviour
 {
+    public Multiplier mp;
     public HealthBar HP;
     public GameObject bt;
     public bool canPress =false;
@@ -15,12 +16,14 @@ public class MusicNotes : MonoBehaviour
     void Start()
     {
        BC= bt.GetComponent<ButtonController>();
+     
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
+     
     }
 
 
@@ -31,8 +34,10 @@ public class MusicNotes : MonoBehaviour
         if (Input.GetKey(BC.press))
         {
             HP.currentLife += correct;
-            score.currentScore += correct;
+            mp.currentCombo += 1;
+            score.currentScore += correct*mp.multiplier;
             Destroy(this.gameObject);
+          
            
             
         }
@@ -55,6 +60,8 @@ public class MusicNotes : MonoBehaviour
         if (other.tag == "Death")
         {
             HP.currentLife -= punish;
+            mp.currentCombo = 0;
+            mp.multiplier = 1;
             Destroy(this.gameObject);
         }
     }
