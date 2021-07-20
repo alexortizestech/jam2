@@ -26,20 +26,23 @@ public class MusicNotes : MonoBehaviour
     public void Good()
     {
         correct = 1;
+        score.GoodCount += 1;
         Instantiate(GoodEffect, transform.position, GoodEffect.transform.rotation);
     }
 
     public void Great()
     {
+        score.GreatCount += 1;
         correct = 3;
         Instantiate(GreatEffect, transform.position, GreatEffect.transform.rotation);
     }
 
    public void Perfect()
     {
+        score.PerfectCount += 1;
         correct = 5;
         Instantiate(PerfectEffect, transform.position, PerfectEffect.transform.rotation);
-        Destroy(PerfectEffect, 1f);
+        
     }
     // Update is called once per frame
     void Update()

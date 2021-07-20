@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using TMPro;
 public class Multiplier : MonoBehaviour
 {
+    public TextMeshProUGUI current;
+    public TextMeshProUGUI mtp;
     public float currentCombo;
     public float multiplier;
     // Start is called before the first frame update
@@ -35,5 +37,9 @@ public class Multiplier : MonoBehaviour
         {
             multiplier = 4;
         }
+
+        current.text ="Combo "+ currentCombo.ToString("F0");
+        mtp.text ="Multiplier "+ multiplier.ToString();
+
     }
 }
