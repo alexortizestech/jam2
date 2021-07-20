@@ -11,6 +11,7 @@ public class SceneSwitch : MonoBehaviour
     public void Play()
     {
        SceneManager.LoadScene("Start");
+        Time.timeScale = 1;
     }
 
     public void Exit()
