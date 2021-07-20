@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour
 {
+    public GameObject LoseMenu;
     public Slider Slider;
     public float currentLife = 100;
     // Start is called before the first frame update
@@ -27,6 +28,7 @@ public class HealthBar : MonoBehaviour
         if (currentLife <= 0)
         {
             Time.timeScale = 0;
+            LoseMenu.SetActive(true);
         }
     }
 }
