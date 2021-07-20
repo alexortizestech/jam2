@@ -22,5 +22,11 @@ public class HealthBar : MonoBehaviour
         {
             currentLife = 100;
         }
+
+
+        if (currentLife <= 0)
+        {
+            Time.timeScale = 0;
+        }
     }
 }

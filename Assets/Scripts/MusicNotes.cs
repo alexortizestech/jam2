@@ -8,6 +8,9 @@ public class MusicNotes : MonoBehaviour
     public GameObject bt;
     public bool canPress =false;
     public ButtonController BC;
+    public float punish;
+    public float correct;
+    public Score score;
     // Start is called before the first frame update
     void Start()
     {
@@ -27,7 +30,8 @@ public class MusicNotes : MonoBehaviour
         canPress = true;
         if (Input.GetKey(BC.press))
         {
-            HP.currentLife += 5;
+            HP.currentLife += correct;
+            score.currentScore += correct;
             Destroy(this.gameObject);
            
             
@@ -50,7 +54,8 @@ public class MusicNotes : MonoBehaviour
     {
         if (other.tag == "Death")
         {
-            HP.currentLife -= 20;
+            HP.currentLife -= punish;
+            Destroy(this.gameObject);
         }
     }
 
