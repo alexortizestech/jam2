@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MusicNotes : MonoBehaviour
 {
+    public GameObject GoodEffect, GreatEffect, PerfectEffect;
     public AudioSource Error;
     public AudioSource Beat;
     public Multiplier mp;
@@ -25,16 +26,20 @@ public class MusicNotes : MonoBehaviour
     public void Good()
     {
         correct = 1;
+        Instantiate(GoodEffect, transform.position, GoodEffect.transform.rotation);
     }
 
     public void Great()
     {
         correct = 3;
+        Instantiate(GreatEffect, transform.position, GreatEffect.transform.rotation);
     }
 
    public void Perfect()
     {
         correct = 5;
+        Instantiate(PerfectEffect, transform.position, PerfectEffect.transform.rotation);
+        Destroy(PerfectEffect, 1f);
     }
     // Update is called once per frame
     void Update()
@@ -52,8 +57,7 @@ public class MusicNotes : MonoBehaviour
         Destroy(this.gameObject);
     }
     
-    private void OnTriggerStay2D(Collider2D other)
-    {
+    private void OnTriggerStay2D(Collider2D other)    {
         canPress = true;
         if (Input.GetKey(BC.press))
         {
@@ -61,7 +65,7 @@ public class MusicNotes : MonoBehaviour
             {
                 Great();
             }
-            if (this.gameObject.transform.position.y >0)
+            if (this.gameObject.transform.position.y >0 && this.gameObject.transform.position.y <0.25f)
             {
                 Perfect();
             }
