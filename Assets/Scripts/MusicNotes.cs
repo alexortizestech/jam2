@@ -21,7 +21,7 @@ public class MusicNotes : MonoBehaviour
     void Start()
     {
        BC= bt.GetComponent<ButtonController>();
-     
+        Player.GetComponent<Animator>().Play("Idle");
     }
 
 
@@ -55,6 +55,7 @@ public class MusicNotes : MonoBehaviour
 
     public void Fail()
     {
+        Player.GetComponent<Animator>().Play("Idle");
         Error.Play();
         HP.currentLife -= punish;
         mp.currentCombo = 0;
@@ -71,11 +72,11 @@ public class MusicNotes : MonoBehaviour
             {
                 Great();
             }
-            if (this.gameObject.transform.position.y >0 && this.gameObject.transform.position.y <0.25f)
+            if (this.gameObject.transform.position.y >-0.1 && this.gameObject.transform.position.y <0.25f)
             {
                 Perfect();
             }
-            if (this.gameObject.transform.position.y <0)
+            if (this.gameObject.transform.position.y <-0.1)
             {
                 Good();
             }
