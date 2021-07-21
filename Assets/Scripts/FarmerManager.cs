@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FarmerManager : MonoBehaviour
 {
+    public GameObject Farmer;
     public Transform Spawner;
     public GameObject SlashEffect;
     public Transform Player;
@@ -15,7 +16,8 @@ public class FarmerManager : MonoBehaviour
     // Start is called before the first frame update
     public void CorrectNote()
     {
-        transform.LookAt(Player);
+        Farmer.GetComponent<Animator>().Play("Idle");
+        transform.rotation = Player.transform.rotation;
        currentrunner= Instantiate(Runner, FirstRunner.position, FirstRunner.rotation);
         Destroy(currentrunner, 0.5f);
     }
@@ -23,9 +25,11 @@ public class FarmerManager : MonoBehaviour
 
     public void WrongNote()
     {
+
         transform.LookAt(Pigs);
         Instantiate(SlashEffect, Spawner.position, SlashEffect.transform.rotation);
-        Scream.Play();
+        Scream.Play(); 
+        Farmer.GetComponent<Animator>().Play("Attack");
     }
 
     private void Update()
