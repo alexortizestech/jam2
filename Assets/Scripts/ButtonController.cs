@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ButtonController : MonoBehaviour
 {
-
+    public Animation anim;
     public SpriteRenderer Sr;
     public Sprite defaultSprite;
     public Sprite pressedSprite;

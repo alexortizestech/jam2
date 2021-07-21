@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class MusicNotes : MonoBehaviour
 {
+    public string animationside;
+    public GameObject Player;
     public GameObject GoodEffect, GreatEffect, PerfectEffect;
     public AudioSource Error;
     public AudioSource Beat;
@@ -64,6 +66,7 @@ public class MusicNotes : MonoBehaviour
         canPress = true;
         if (Input.GetKey(BC.press))
         {
+            Player.GetComponent<Animator>().Play(animationside);
             if (this.gameObject.transform.position.y >= 0.25)
             {
                 Great();
