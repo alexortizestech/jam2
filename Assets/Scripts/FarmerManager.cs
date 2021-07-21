@@ -14,6 +14,11 @@ public class FarmerManager : MonoBehaviour
     public Transform FirstRunner;
     public GameObject currentrunner;
     // Start is called before the first frame update
+
+    private void Start()
+    {
+        transform.rotation = Player.transform.rotation;
+    }
     public void CorrectNote()
     {
         Farmer.GetComponent<Animator>().Play("Idle");
