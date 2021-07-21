@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MusicNotes : MonoBehaviour
 {
+    
     public string animationside;
     public GameObject Player;
     public GameObject GoodEffect, GreatEffect, PerfectEffect;
@@ -60,6 +61,7 @@ public class MusicNotes : MonoBehaviour
         HP.currentLife -= punish;
         mp.currentCombo = 0;
         mp.multiplier = 1;
+        score.totalNotes += 1;
         Destroy(this.gameObject);
     }
     
@@ -80,6 +82,7 @@ public class MusicNotes : MonoBehaviour
             {
                 Good();
             }
+            score.totalNotes += 1;
             HP.currentLife += correct;
             mp.currentCombo += 1;
             score.currentScore += correct*mp.multiplier;
