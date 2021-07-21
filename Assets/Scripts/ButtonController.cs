@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ButtonController : MonoBehaviour
 {
+    public KeyCode press2;
     public Animation anim;
     public SpriteRenderer Sr;
     public Sprite defaultSprite;
@@ -18,12 +19,12 @@ public class ButtonController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(press))
+        if (Input.GetKeyDown(press)||Input.GetKeyDown(press2))
         {
             Sr.sprite = pressedSprite;
         }
 
-        if (Input.GetKeyUp(press))
+        if (Input.GetKeyUp(press) || Input.GetKeyDown(press2))
         {
             Sr.sprite = defaultSprite;
         }

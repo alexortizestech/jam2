@@ -65,7 +65,7 @@ public class MusicNotes : MonoBehaviour
     
     private void OnTriggerStay2D(Collider2D other)    {
         canPress = true;
-        if (Input.GetKey(BC.press))
+        if (Input.GetKey(BC.press) || Input.GetKeyDown(BC.press2))
         {
             Player.GetComponent<Animator>().Play(animationside);
             if (this.gameObject.transform.position.y >= 0.25)
