@@ -170,7 +170,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -697,7 +697,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Silly Dancing
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -1152,7 +1152,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -1823,7 +1823,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Silly Dancing
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -2269,7 +2269,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -4610,7 +4610,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Silly Dancing
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -4842,7 +4842,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -5860,7 +5860,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -6394,7 +6394,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -7810,7 +7810,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Shuffling
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -9689,7 +9689,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Shuffling
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
@@ -10101,7 +10101,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationside: Shuffling
   Player: {fileID: 338587919}
-  GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
+  GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
   PerfectEffect: {fileID: 7497726425201305670, guid: fa2dd4af15bf2624897f6082be9f5a28, type: 3}
   Error: {fileID: 1357716483}
