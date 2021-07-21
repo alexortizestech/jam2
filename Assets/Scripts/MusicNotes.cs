@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MusicNotes : MonoBehaviour
 {
-    
+    public FarmerManager FM;
     public string animationside;
     public GameObject Player;
     public GameObject GoodEffect, GreatEffect, PerfectEffect;
@@ -63,6 +63,7 @@ public class MusicNotes : MonoBehaviour
         mp.multiplier = 1;
         score.fails += 1;
         score.totalNotes += 1;
+        FM.WrongNote();
         Destroy(this.gameObject);
     }
     
@@ -88,6 +89,7 @@ public class MusicNotes : MonoBehaviour
             mp.currentCombo += 1;
             score.currentScore += correct*mp.multiplier;
             Beat.Play();
+            FM.CorrectNote();
             Destroy(this.gameObject);
             
         }

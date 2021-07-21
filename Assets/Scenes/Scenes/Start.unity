@@ -168,6 +168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -331,6 +332,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -458,6 +460,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -540,6 +543,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &14503323 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 1877935266}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &20264758
 GameObject:
   m_ObjectHideFlags: 0
@@ -585,6 +593,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -667,6 +676,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &27486420 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 972413519}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &30231046
 GameObject:
   m_ObjectHideFlags: 0
@@ -712,6 +726,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -914,6 +929,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -1191,6 +1207,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -1318,6 +1335,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -1445,6 +1463,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -1572,6 +1591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -1772,6 +1792,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -1899,6 +1920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -2068,6 +2090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -2195,6 +2218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -2322,6 +2346,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -2449,6 +2474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -2643,6 +2669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -2658,6 +2685,11 @@ MonoBehaviour:
   punish: 20
   correct: 5
   score: {fileID: 1665987930}
+--- !u!4 &138306943 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+  m_PrefabInstance: {fileID: 4010446214346272187}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &139886735
 GameObject:
   m_ObjectHideFlags: 0
@@ -2703,6 +2735,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -2921,6 +2954,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 144540452}
   m_CullTransparentMesh: 1
+--- !u!4 &161240718 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 714602213}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &169036778
 GameObject:
   m_ObjectHideFlags: 0
@@ -2966,6 +3004,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -3093,6 +3132,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -3220,6 +3260,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -3378,6 +3419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -3505,6 +3547,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -3632,6 +3675,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -3714,6 +3758,136 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &213872377
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.1110001
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.259
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+--- !u!1001 &217928670
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.111
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.042
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &224227319
 GameObject:
   m_ObjectHideFlags: 0
@@ -3759,6 +3933,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -3886,6 +4061,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -4092,6 +4268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -4219,6 +4396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -4482,6 +4660,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -4609,6 +4788,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -4736,6 +4916,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -4818,6 +4999,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &290214334
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.949
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.207
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &294224834
 GameObject:
   m_ObjectHideFlags: 0
@@ -4863,6 +5109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -4990,6 +5237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -5072,6 +5320,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &308599519
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5080004
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.259
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &309848113
 GameObject:
   m_ObjectHideFlags: 0
@@ -5117,6 +5430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -5244,6 +5558,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -5371,6 +5686,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -5498,6 +5814,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -5931,6 +6248,71 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &354199582
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.447
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &359951530
 GameObject:
   m_ObjectHideFlags: 0
@@ -5976,6 +6358,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -6103,6 +6486,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -6230,6 +6614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -6357,6 +6742,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -6484,6 +6870,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -6566,6 +6953,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &374762990 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 751983756}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &375790117 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 290214334}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &377833468
 GameObject:
   m_ObjectHideFlags: 0
@@ -6611,6 +7008,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -6872,6 +7270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -6999,6 +7398,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -7126,6 +7526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -7253,6 +7654,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -7380,6 +7782,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -7507,6 +7910,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -7923,6 +8327,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -8050,6 +8455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -8177,6 +8583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -8550,6 +8957,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -8677,6 +9085,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -8804,6 +9213,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -9006,6 +9416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -9088,6 +9499,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &574434705 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 308599519}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &582044746
 GameObject:
   m_ObjectHideFlags: 0
@@ -9133,6 +9549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -9394,6 +9811,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -9865,6 +10283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -9992,6 +10411,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -10119,6 +10539,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -10246,6 +10667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -10373,6 +10795,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -10660,6 +11083,107 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 657169592}
   m_CullTransparentMesh: 1
+--- !u!1 &659512057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 659512058}
+  - component: {fileID: 659512061}
+  - component: {fileID: 659512060}
+  - component: {fileID: 659512059}
+  m_Layer: 0
+  m_Name: Cube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &659512058
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 659512057}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.39, y: 0, z: -0.075796604}
+  m_LocalScale: {x: 1, y: 4.375, z: 1}
+  m_Children:
+  - {fileID: 1591041961}
+  m_Father: {fileID: 1561412735}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &659512059
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 659512057}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &659512060
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 659512057}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &659512061
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 659512057}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &662881547 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 1659391975}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &675618828
 GameObject:
   m_ObjectHideFlags: 0
@@ -10705,6 +11229,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -10982,6 +11507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -11243,6 +11769,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -11640,6 +12167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -11722,6 +12250,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &714602213
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.70399976
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.447
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &717996225
 GameObject:
   m_ObjectHideFlags: 0
@@ -11917,6 +12510,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -12044,6 +12638,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -12300,6 +12895,71 @@ MonoBehaviour:
   m_EffectColor: {r: 1, g: 1, b: 1, a: 1}
   m_EffectDistance: {x: 2, y: 2}
   m_UseGraphicAlpha: 1
+--- !u!1001 &751983756
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.208
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.447
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &752466411
 GameObject:
   m_ObjectHideFlags: 0
@@ -12420,6 +13080,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -12760,6 +13421,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -12932,6 +13594,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 766832845}
   m_CullTransparentMesh: 0
+--- !u!4 &766963649 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 1623724327}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &769628852
 GameObject:
   m_ObjectHideFlags: 0
@@ -12977,6 +13644,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -13104,6 +13772,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -13231,6 +13900,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -13358,6 +14028,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -13485,6 +14156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -13612,6 +14284,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -13739,6 +14412,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -13866,6 +14540,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -13993,6 +14668,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -14253,6 +14929,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -14380,6 +15057,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -14507,6 +15185,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -14634,6 +15313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -14761,6 +15441,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -14888,6 +15569,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -15094,6 +15776,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -15221,6 +15904,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -15348,6 +16032,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -15475,6 +16160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -15602,6 +16288,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -15729,6 +16416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -15856,6 +16544,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -15938,6 +16627,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &907373293 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 1597578346}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &910252282
 GameObject:
   m_ObjectHideFlags: 0
@@ -15983,6 +16677,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -16110,6 +16805,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -16237,6 +16933,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -16319,6 +17016,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &972413519
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.391
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.11649299
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &972654098
 GameObject:
   m_ObjectHideFlags: 0
@@ -16364,6 +17126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -16491,6 +17254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -16887,6 +17651,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -17081,6 +17846,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -17141,6 +17907,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -17268,6 +18035,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -17395,6 +18163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -17522,6 +18291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -17649,6 +18419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -17731,6 +18502,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1041907230
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.949
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.189
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &1045631487
 GameObject:
   m_ObjectHideFlags: 0
@@ -17892,7 +18728,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -8.3}
+  m_AnchoredPosition: {x: -57.1, y: -8.3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1047477797
@@ -17944,8 +18780,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -17980,7 +18816,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -115.03374, w: 0}
+  m_margin: {x: 0, y: 0, z: -150.6197, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -18039,6 +18875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -18335,6 +19172,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -18462,6 +19300,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -18589,6 +19428,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -18716,6 +19556,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -18924,6 +19765,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -19051,6 +19893,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -19178,6 +20021,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -19305,6 +20149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -19432,6 +20277,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -19559,6 +20405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -19761,6 +20608,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -19888,6 +20736,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -20004,7 +20853,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -61.5}
+  m_AnchoredPosition: {x: -57.09999, y: -61.5}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1156623220
@@ -20054,8 +20903,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -20090,7 +20939,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -83.58566, w: 0}
+  m_margin: {x: 0, y: 0, z: -186.20566, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -20228,6 +21077,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -20427,6 +21277,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -20554,6 +21405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -20681,6 +21533,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -20808,6 +21661,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -20970,6 +21824,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -21179,6 +22034,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -21439,6 +22295,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -21566,6 +22423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -21693,6 +22551,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -21820,6 +22679,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -21947,6 +22807,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -22074,6 +22935,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -22156,6 +23018,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1289527226 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 213872377}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1290190236
 GameObject:
   m_ObjectHideFlags: 0
@@ -22201,6 +23068,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -22541,6 +23409,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -22668,6 +23537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -23083,6 +23953,154 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   beat: 80
   ON: 0
+--- !u!1 &1340061784
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1340061785}
+  - component: {fileID: 1340061786}
+  m_Layer: 0
+  m_Name: BackGroundPigs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1340061785
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1340061784}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.18, y: 1.09, z: 2.83}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1515199784}
+  - {fileID: 27486420}
+  - {fileID: 2049796697}
+  - {fileID: 14503323}
+  - {fileID: 375790117}
+  - {fileID: 2051436913}
+  - {fileID: 1765916955}
+  - {fileID: 374762990}
+  - {fileID: 1373787918}
+  - {fileID: 766963649}
+  - {fileID: 1810344153}
+  - {fileID: 138306943}
+  - {fileID: 662881547}
+  - {fileID: 161240718}
+  - {fileID: 1472495683}
+  - {fileID: 1289527226}
+  - {fileID: 1444494363}
+  - {fileID: 1894801606}
+  - {fileID: 1837550887}
+  - {fileID: 574434705}
+  - {fileID: 907373293}
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1340061786
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1340061784}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: c95d535f4d88daa4d85a4558231bc9ef, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1340542968
 GameObject:
   m_ObjectHideFlags: 0
@@ -23128,6 +24146,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -23255,6 +24274,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -23382,6 +24402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -23464,6 +24485,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1341124554
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1341124555}
+  m_Layer: 0
+  m_Name: Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1341124555
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1341124554}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.87, y: 1.555, z: 2.19}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1343053586
 GameObject:
   m_ObjectHideFlags: 0
@@ -23642,6 +24693,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -23769,6 +24821,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -24023,6 +25076,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -24105,6 +25159,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1373787918 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 2095708458}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1381014994
 GameObject:
   m_ObjectHideFlags: 0
@@ -24232,6 +25291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -24359,6 +25419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -24565,6 +25626,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -24692,6 +25754,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -24855,6 +25918,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -24982,6 +26046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -25109,6 +26174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -25236,6 +26302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -25318,6 +26385,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1425603027
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.306
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.259
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &1427423920
 GameObject:
   m_ObjectHideFlags: 0
@@ -25363,6 +26495,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -25490,6 +26623,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -25617,6 +26751,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -25744,6 +26879,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -25871,6 +27007,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -25998,6 +27135,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -26125,6 +27263,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -26207,6 +27346,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1444494363 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 217928670}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1446378385
 GameObject:
   m_ObjectHideFlags: 0
@@ -26252,6 +27396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -26379,6 +27524,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -26461,6 +27607,76 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1471920026
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.704
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.259
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+--- !u!4 &1472495683 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 1471920026}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1475996777
 GameObject:
   m_ObjectHideFlags: 0
@@ -26495,7 +27711,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 46.8}
+  m_AnchoredPosition: {x: -57.09999, y: 46.8}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1475996779
@@ -26547,8 +27763,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -26583,7 +27799,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -93.51668, w: 0}
+  m_margin: {x: 0, y: 0, z: -247.44672, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -26642,6 +27858,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -26769,6 +27986,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -26896,6 +28114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -27023,6 +28242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -27150,6 +28370,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -27232,6 +28453,76 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1515199783
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.070982456
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.11649299
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+--- !u!4 &1515199784 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 1515199783}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1520606206
 GameObject:
   m_ObjectHideFlags: 0
@@ -27411,6 +28702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -27538,6 +28830,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -27746,6 +29039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -27873,6 +29167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -28000,6 +29295,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -28082,6 +29378,58 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1561412734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1561412735}
+  - component: {fileID: 1561412736}
+  m_Layer: 0
+  m_Name: Farmer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1561412735
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1561412734}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.366947, y: 1.6689637, z: 1.0873384}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 659512058}
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1561412736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1561412734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5bea304ffa82e24bb66bf5019de9a25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Spawner: {fileID: 1341124555}
+  SlashEffect: {fileID: 8260568606734704301, guid: 9b3792a32eb4a5b40b26439436c0d7e0, type: 3}
+  Player: {fileID: 338587920}
+  Pigs: {fileID: 1340061785}
+  Scream: {fileID: 1340061786}
+  Runner: {fileID: 4280282512918853012, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+  FirstRunner: {fileID: 138306943}
+  currentrunner: {fileID: 0}
 --- !u!1 &1563792184
 GameObject:
   m_ObjectHideFlags: 0
@@ -28199,6 +29547,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -28422,6 +29771,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -28504,6 +29854,101 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1591041960
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1591041961}
+  - component: {fileID: 1591041964}
+  - component: {fileID: 1591041963}
+  - component: {fileID: 1591041962}
+  m_Layer: 0
+  m_Name: Cube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1591041961
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591041960}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.77, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.19484, z: 1}
+  m_Children: []
+  m_Father: {fileID: 659512058}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1591041962
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591041960}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1591041963
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591041960}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1591041964
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591041960}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1593333074
 GameObject:
   m_ObjectHideFlags: 0
@@ -28549,6 +29994,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -28757,6 +30203,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -28839,6 +30286,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1597578346
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.508
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.447
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &1601014004
 GameObject:
   m_ObjectHideFlags: 0
@@ -29066,6 +30578,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -29274,6 +30787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -29356,6 +30870,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1623724327
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.306
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.042
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &1653238396
 GameObject:
   m_ObjectHideFlags: 0
@@ -29401,6 +30980,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -29483,6 +31063,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1659391975
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.70399976
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.042
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &1665987925
 GameObject:
   m_ObjectHideFlags: 0
@@ -29862,6 +31507,71 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+--- !u!1001 &1686266891
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5080003
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.042
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &1698628175
 GameObject:
   m_ObjectHideFlags: 0
@@ -29907,6 +31617,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -30034,6 +31745,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -30161,6 +31873,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -30288,6 +32001,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -30415,6 +32129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -30542,6 +32257,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -30669,6 +32385,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -30796,6 +32513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -30923,6 +32641,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -31050,6 +32769,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -31177,6 +32897,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -31304,6 +33025,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -31461,6 +33183,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1763217921}
   m_CullTransparentMesh: 1
+--- !u!4 &1765916955 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 354199582}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1770265612
 GameObject:
   m_ObjectHideFlags: 0
@@ -31506,6 +33233,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -31633,6 +33361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -31972,6 +33701,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -32099,6 +33829,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -32181,6 +33912,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1810344153 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 1425603027}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1815570994
 GameObject:
   m_ObjectHideFlags: 0
@@ -32226,6 +33962,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -32353,6 +34090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -32480,6 +34218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -32562,6 +34301,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1837550887 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 1686266891}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1848060130
 GameObject:
   m_ObjectHideFlags: 0
@@ -32607,6 +34351,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -32734,6 +34479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -32861,6 +34607,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -32943,6 +34690,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1877935266
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.036
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.207
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &1883463577
 GameObject:
   m_ObjectHideFlags: 0
@@ -32988,6 +34800,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -33070,6 +34883,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1894801606 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 2005515621}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1894841108
 GameObject:
   m_ObjectHideFlags: 0
@@ -33194,6 +35012,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -33321,6 +35140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -33527,6 +35347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -33654,6 +35475,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -33781,6 +35603,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -33908,6 +35731,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -34114,6 +35938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -34241,6 +36066,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -34368,6 +36194,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -34820,7 +36647,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -117.3}
+  m_AnchoredPosition: {x: -57.09999, y: -117.3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1973753492
@@ -34872,8 +36699,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -34908,7 +36735,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -127.447495, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -34967,6 +36794,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -35252,6 +37080,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -35334,6 +37163,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &2005515621
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.1109998
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.447
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &2007346597
 GameObject:
   m_ObjectHideFlags: 0
@@ -35379,6 +37273,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -35506,6 +37401,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -35633,6 +37529,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -35760,6 +37657,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -36037,6 +37935,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -36243,6 +38142,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -36404,6 +38304,16 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2046178999}
   m_CullTransparentMesh: 0
+--- !u!4 &2049796697 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 2140159849}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2051436913 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+  m_PrefabInstance: {fileID: 1041907230}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2051693968
 GameObject:
   m_ObjectHideFlags: 0
@@ -36449,6 +38359,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -36576,6 +38487,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -36782,6 +38694,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -36909,6 +38822,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -37036,6 +38950,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -37163,6 +39078,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -37290,6 +39206,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -37372,6 +39289,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &2095708458
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.306
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.447
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &2098040872
 GameObject:
   m_ObjectHideFlags: 0
@@ -37417,6 +39399,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -37788,6 +39771,71 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2138226529}
   m_CullTransparentMesh: 1
+--- !u!1001 &2140159849
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.391
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.207
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -985542389825260074, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 93ef8ab2fc2b6ec448830e93deba9820, type: 2}
+    - target: {fileID: 919132149155446097, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Name
+      value: BasePig_Rigged_Animated (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 51fc84287e91c7c429801870a08d5fec, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
 --- !u!1 &2141055731
 GameObject:
   m_ObjectHideFlags: 0
@@ -37833,6 +39881,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -38096,6 +40145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: 3041782415166355022, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
@@ -38178,6 +40228,67 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &4010446214346272187
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1340061785}
+    m_Modifications:
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.827
+      objectReference: {fileID: 0}
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.259
+      objectReference: {fileID: 0}
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70110345
+      objectReference: {fileID: 0}
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7130596
+      objectReference: {fileID: 0}
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90.969
+      objectReference: {fileID: 0}
+    - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4280282512918853012, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_Name
+      value: RunnerPig
+      objectReference: {fileID: 0}
+    - target: {fileID: 4280282512918853012, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
 --- !u!1001 &5575789805580174192
 PrefabInstance:
   m_ObjectHideFlags: 0
