@@ -16,14 +16,10 @@ public class Scrolling : MonoBehaviour
     void Update()
     {
         
-            if (Input.anyKeyDown)
-            {
-                ON = true;
-            }
+            
         
-        else
-        {
+        
             transform.position -= new Vector3(0f, beat*Time.deltaTime, 0f);
-        }
+        
     }
 }
