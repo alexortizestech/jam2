@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PauseManager : MonoBehaviour
 {
+    public KeyCode Pause;
     public GameObject PauseMenu;
     // Start is called before the first frame update
     void Start()
@@ -14,7 +15,7 @@ public class PauseManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.Escape))
+        if (Input.GetKey(Pause))
         {
             Time.timeScale = 0;
             PauseMenu.SetActive(true);
