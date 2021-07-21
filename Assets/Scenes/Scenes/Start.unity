@@ -168,7 +168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationside: Shuffling
+  animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
@@ -1150,7 +1150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationside: Shuffling
+  animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
@@ -2267,7 +2267,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationside: Shuffling
+  animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
@@ -4840,7 +4840,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationside: Shuffling
+  animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
@@ -5858,7 +5858,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationside: Shuffling
+  animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
   GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
@@ -6392,7 +6392,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationside: Shuffling
+  animationside: Hip Hop Dance
   Player: {fileID: 338587919}
   GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
@@ -7808,7 +7808,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationside: Hip Hop Dance
+  animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
@@ -9687,7 +9687,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationside: Hip Hop Dance
+  animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
@@ -10099,7 +10099,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationside: Hip Hop Dance
+  animationside: Shuffling
   Player: {fileID: 338587919}
   GoodEffect: {fileID: -7290496582747033592, guid: e1e01490a9febad428a3db795f3906c4, type: 3}
   GreatEffect: {fileID: 7458751740664694511, guid: 52b9af13d47eb624f90d2c611b419fce, type: 3}
