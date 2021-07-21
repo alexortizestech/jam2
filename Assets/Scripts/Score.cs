@@ -18,6 +18,8 @@ public class Score : MonoBehaviour
     public float PerfectCount;
     public TextMeshProUGUI text;
     public float currentScore;
+    public float fails;
+    public float savedPigs;
     // Start is called before the first frame update
     void Start()
     {
@@ -38,8 +40,8 @@ public class Score : MonoBehaviour
         currentScore += 1 * Time.deltaTime;
         text.text = "Score "+currentScore.ToString("F0");
         TotalCount = GoodCount*0.5f + GreatCount*0.75f + PerfectCount;
-        
-        if(TotalCount>=1){
+        savedPigs = GoodCount + GreatCount + PerfectCount;
+        if (TotalCount>=1){
   
             Percentage = (TotalCount / totalNotes) * 100f;
         }

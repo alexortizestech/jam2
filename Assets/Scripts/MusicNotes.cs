@@ -61,6 +61,7 @@ public class MusicNotes : MonoBehaviour
         HP.currentLife -= punish;
         mp.currentCombo = 0;
         mp.multiplier = 1;
+        score.fails += 1;
         score.totalNotes += 1;
         Destroy(this.gameObject);
     }
