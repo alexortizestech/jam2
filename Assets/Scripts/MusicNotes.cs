@@ -67,6 +67,7 @@ public class MusicNotes : MonoBehaviour
         mp.multiplier = 1;
         score.fails += 1;
         score.totalNotes += 1;
+        score.stack = 0;
         FM.WrongNote();
         Destroy(this.gameObject);
     }
