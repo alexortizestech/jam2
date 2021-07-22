@@ -7,6 +7,8 @@ using UnityEngine.UI;
 
 public class Score : MonoBehaviour
 {
+    public float stack;
+    public FarmerManager fm;
     public GameObject TutorialText;
     public MusicNotes mc;
     public TextMeshProUGUI prc;
@@ -32,6 +34,7 @@ public class Score : MonoBehaviour
         PerfectCount = 0;
         totalNotes = 0;
         Percentage = 0;
+        stack = 0;
       
     }
 
@@ -43,16 +46,23 @@ public class Score : MonoBehaviour
             TutorialText.SetActive(false);
         }
 
-
+        
         currentScore += 1 * Time.deltaTime;
+        if (stack >= 5)
+        {
+            fm.SpawnPig();
+            stack = 0;
+        }
         text.text = "Score "+currentScore.ToString("F0");
         TotalCount = GoodCount*0.5f + GreatCount*0.75f + PerfectCount;
-        savedPigs = GoodCount + GreatCount + PerfectCount;
+        savedPigs = fm.SavedPigs;
         if (TotalCount>=1){
   
             Percentage = (TotalCount / totalNotes) * 100f;
         }
         slider.value = Percentage;
         prc.text = Percentage.ToString("F2") + " %";
+
+        
     }
 }

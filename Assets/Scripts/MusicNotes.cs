@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class MusicNotes : MonoBehaviour
 {
+  
+    public float min;
+    public float max;
     public FarmerManager FM;
     public string animationside;
     public GameObject Player;
@@ -23,8 +26,9 @@ public class MusicNotes : MonoBehaviour
     {
        BC= bt.GetComponent<ButtonController>();
         Player.GetComponent<Animator>().Play("Idle");
+        
     }
-
+    
 
     public void Good()
     {
@@ -50,7 +54,7 @@ public class MusicNotes : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
      
     }
 
@@ -72,18 +76,19 @@ public class MusicNotes : MonoBehaviour
         if (Input.GetKey(BC.press) || Input.GetKeyDown(BC.press2))
         {
             Player.GetComponent<Animator>().Play(animationside);
-            if (this.gameObject.transform.position.y >= 0.25)
+            if (this.gameObject.transform.position.y >= max)
             {
                 Great();
             }
-            if (this.gameObject.transform.position.y >-0.1 && this.gameObject.transform.position.y <0.25f)
+            if (this.gameObject.transform.position.y >min && this.gameObject.transform.position.y <max)
             {
                 Perfect();
             }
-            if (this.gameObject.transform.position.y <-0.1)
+            if (this.gameObject.transform.position.y <min)
             {
                 Good();
             }
+            score.stack += 1;
             score.totalNotes += 1;
             HP.currentLife += correct;
             mp.currentCombo += 1;

@@ -168,6 +168,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -332,6 +334,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -460,6 +464,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -593,6 +599,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -726,6 +734,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -929,6 +939,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -1207,6 +1219,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -1335,6 +1349,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -1463,6 +1479,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -1591,6 +1609,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -1792,6 +1812,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -1920,6 +1942,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -2090,6 +2114,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -2218,6 +2244,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -2346,6 +2374,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -2474,6 +2504,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -2669,6 +2701,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -2735,6 +2769,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -2999,6 +3035,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -3127,6 +3165,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -3255,6 +3295,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -3367,7 +3409,7 @@ Transform:
   m_Children:
   - {fileID: 1579268323}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &181185927
 GameObject:
@@ -3414,6 +3456,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -3542,6 +3586,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -3670,6 +3716,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -3798,6 +3846,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -3926,6 +3976,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -4054,6 +4106,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -4182,6 +4236,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -4446,6 +4502,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -4574,6 +4632,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -4702,6 +4762,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -4798,7 +4860,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.21099979
+      value: -0.32503906
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4806,11 +4868,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.207
+      value: -0.05133506
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -4818,7 +4880,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -4830,7 +4892,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -4899,6 +4961,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -5027,6 +5091,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -5155,6 +5221,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -5283,6 +5351,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -5411,6 +5481,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -5539,6 +5611,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -5713,7 +5787,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &335185279
 GameObject:
@@ -6041,7 +6115,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.1280002
+      value: -0.7924894
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6049,11 +6123,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.447
+      value: 0.517985
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -6061,7 +6135,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -6073,7 +6147,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -6142,6 +6216,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -6270,6 +6346,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -6398,6 +6476,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -6526,6 +6606,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -6654,6 +6736,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -6792,6 +6876,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -7054,6 +7140,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -7182,6 +7270,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -7310,6 +7400,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -7438,6 +7530,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -7566,6 +7660,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -7694,6 +7790,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -8106,6 +8204,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -8234,6 +8334,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -8362,6 +8464,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -8606,7 +8710,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
@@ -8736,6 +8840,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -8864,6 +8970,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -8947,6 +9055,67 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &557348055
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.85
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.08919864
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.49
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5436019
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.8393432
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -114.142
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1fadbeb3494880b44b3b1bc0ab400d24, type: 2}
+    - target: {fileID: 919132149155446097, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_Name
+      value: ground (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
 --- !u!1 &558466996
 GameObject:
   m_ObjectHideFlags: 0
@@ -8992,6 +9161,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -9195,6 +9366,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -9306,7 +9479,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &582044746
 GameObject:
@@ -9353,6 +9526,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -9615,6 +9790,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -9897,7 +10074,7 @@ MonoBehaviour:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_SelectedColor: {r: 0.3490566, g: 0.3490566, b: 0.3490566, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -10087,6 +10264,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -10215,6 +10394,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -10343,6 +10524,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -10454,7 +10637,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 86.343, z: 0}
 --- !u!1 &653848801
 GameObject:
@@ -10501,6 +10684,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -10629,6 +10814,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -11058,6 +11245,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -11336,6 +11525,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -11598,6 +11789,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -11996,6 +12189,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -12274,6 +12469,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -12402,6 +12599,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -12498,7 +12697,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.53
+      value: -1.1857222
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -12506,11 +12705,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.447
+      value: 0.4344837
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -12518,7 +12717,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -12530,7 +12729,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -12674,6 +12873,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -12936,6 +13137,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -13069,6 +13272,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -13197,6 +13402,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -13325,6 +13532,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -13453,6 +13662,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -13581,6 +13792,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -13709,6 +13922,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -13837,6 +14052,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -13965,6 +14182,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -14093,6 +14312,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -14239,7 +14460,7 @@ MonoBehaviour:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_SelectedColor: {r: 0.3490566, g: 0.3490566, b: 0.3490566, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -14354,6 +14575,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -14482,6 +14705,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -14610,6 +14835,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -14738,6 +14965,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -14866,6 +15095,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -14994,6 +15225,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -15077,6 +15310,67 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &884347922
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.47
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.08919864
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.49
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5436019
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.8393432
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -114.142
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1fadbeb3494880b44b3b1bc0ab400d24, type: 2}
+    - target: {fileID: 919132149155446097, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_Name
+      value: ground (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
 --- !u!1 &886293087
 GameObject:
   m_ObjectHideFlags: 0
@@ -15122,6 +15416,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -15250,6 +15546,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -15378,6 +15676,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -15506,6 +15806,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -15634,6 +15936,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -15762,6 +16066,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -15890,6 +16196,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -16018,6 +16326,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -16146,6 +16456,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -16274,6 +16586,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -16370,7 +16684,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.3470002
+      value: -0.93806165
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -16378,11 +16692,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.11649299
+      value: 0.14919679
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -16390,7 +16704,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -16402,7 +16716,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -16471,6 +16785,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -16599,6 +16915,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -16915,6 +17233,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -17110,6 +17430,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -17171,6 +17493,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -17299,6 +17623,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -17427,6 +17753,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -17555,6 +17883,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -17683,6 +18013,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -17779,7 +18111,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.21099979
+      value: -0.4072927
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -17787,11 +18119,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.189
+      value: 0.33602822
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -17799,7 +18131,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -17811,7 +18143,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -17960,7 +18292,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1046452144 stripped
 GameObject:
@@ -18148,6 +18480,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -18398,7 +18732,7 @@ Transform:
   - {fileID: 976992665}
   - {fileID: 1919772903}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
 --- !u!1 &1075368677
 GameObject:
@@ -18445,6 +18779,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -18573,6 +18909,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -18701,6 +19039,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -18829,6 +19169,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -18993,6 +19335,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -19121,6 +19465,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -19249,6 +19595,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -19377,6 +19725,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -19505,6 +19855,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -19633,6 +19985,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -19836,6 +20190,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -19964,6 +20320,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -20226,6 +20584,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -20426,6 +20786,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -20554,6 +20916,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -20682,6 +21046,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -20810,6 +21176,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -20973,6 +21341,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -21183,6 +21553,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -21444,6 +21816,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -21572,6 +21946,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -21700,6 +22076,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -21828,6 +22206,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -22038,6 +22418,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -22166,6 +22548,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -22294,6 +22678,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -22556,6 +22942,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -22684,6 +23072,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -23084,7 +23474,7 @@ Transform:
   - {fileID: 1621532517}
   - {fileID: 682889230}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1328410118
 MonoBehaviour:
@@ -23141,7 +23531,7 @@ Transform:
   - {fileID: 1810344153}
   - {fileID: 138306943}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &1340061786
 AudioSource:
@@ -23284,6 +23674,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -23412,6 +23804,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -23540,6 +23934,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -23651,7 +24047,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1343053586
 GameObject:
@@ -23831,6 +24227,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -23959,6 +24357,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -24167,7 +24567,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1361430789
 GameObject:
@@ -24214,6 +24614,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -24429,6 +24831,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -24557,6 +24961,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -24685,6 +25091,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -24813,6 +25221,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -24977,6 +25387,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -25105,6 +25517,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -25233,6 +25647,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -25361,6 +25777,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -25457,7 +25875,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.0440001
+      value: -1.5418586
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -25465,11 +25883,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.259
+      value: -0.36288333
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -25477,7 +25895,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -25489,7 +25907,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -25558,6 +25976,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -25686,6 +26106,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -25814,6 +26236,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -25942,6 +26366,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -26070,6 +26496,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -26198,6 +26626,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -26326,6 +26756,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -26454,6 +26886,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -26537,6 +26971,67 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1452112866
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.048586
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.08919864
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.49
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5436019
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.8393432
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -114.142
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1fadbeb3494880b44b3b1bc0ab400d24, type: 2}
+    - target: {fileID: 919132149155446097, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
+      propertyPath: m_Name
+      value: ground
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 33472c610864c084c97d801bed64fe8d, type: 3}
 --- !u!1 &1470346558
 GameObject:
   m_ObjectHideFlags: 0
@@ -26582,6 +27077,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -26846,6 +27343,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -26974,6 +27473,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -27102,6 +27603,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -27230,6 +27733,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -27358,6 +27863,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -27454,7 +27961,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.66701776
+      value: -1.2510992
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -27462,11 +27969,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.11649299
+      value: 0.08272455
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -27474,7 +27981,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -27486,7 +27993,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -27694,6 +28201,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -27822,6 +28331,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -27950,6 +28461,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -28078,6 +28591,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -28206,6 +28721,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -28320,7 +28837,7 @@ Transform:
   - {fileID: 659512058}
   - {fileID: 1269050110}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1561412736
 MonoBehaviour:
@@ -28334,6 +28851,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5bea304ffa82e24bb66bf5019de9a25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  score: {fileID: 1665987930}
   Pigs2: {fileID: 577221317}
   Farmer: {fileID: 1046452144}
   Spawner: {fileID: 1341124555}
@@ -28344,6 +28862,7 @@ MonoBehaviour:
   Runner: {fileID: 4280282512918853012, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
   FirstRunner: {fileID: 138306943}
   currentrunner: {fileID: 0}
+  SavedPigs: 0
 --- !u!1 &1563792184
 GameObject:
   m_ObjectHideFlags: 0
@@ -28414,7 +28933,7 @@ Transform:
   - {fileID: 175152611}
   - {fileID: 1529097899}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
 --- !u!1 &1569850867
 GameObject:
@@ -28461,6 +28980,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -28571,7 +29092,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1579268322}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.6, y: 0.9, z: 0.0000000074504}
+  m_LocalPosition: {x: 6.6, y: 0.63, z: 0.0000000074504}
   m_LocalScale: {x: 2.9640832, y: 6.565444, z: 2.9640832}
   m_Children:
   - {fileID: 338587920}
@@ -28685,6 +29206,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -28908,6 +29431,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -29036,6 +29561,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -29164,6 +29691,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -29292,6 +29821,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -29388,7 +29919,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.0440001
+      value: -1.6043804
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -29396,11 +29927,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.042
+      value: -0.068449184
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -29408,7 +29939,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -29420,7 +29951,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -29489,6 +30020,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -29644,7 +30177,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1665987929
 MonoBehaviour:
@@ -29674,6 +30207,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6423c540171f254587d828e5d1d9854, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  stack: 0
+  fm: {fileID: 1561412736}
   TutorialText: {fileID: 1104461876}
   mc: {fileID: 0}
   prc: {fileID: 1520606208}
@@ -29856,6 +30391,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8dc872ba8a544e448dc956ac6bb7586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  done: 0
+  First: {fileID: 828184560}
   score: {fileID: 1665987930}
   scr: {fileID: 1047477797}
   fails: {fileID: 1475996779}
@@ -29999,6 +30536,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -30127,6 +30666,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -30255,6 +30796,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -30383,6 +30926,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -30511,6 +31056,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -30639,6 +31186,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -30767,6 +31316,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -30895,6 +31446,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -31023,6 +31576,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -31151,6 +31706,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -31279,6 +31836,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -31407,6 +31966,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -31615,6 +32176,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -31743,6 +32306,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -32004,6 +32569,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -32132,6 +32699,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -32265,6 +32834,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -32393,6 +32964,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -32521,6 +33094,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -32649,6 +33224,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -32777,6 +33354,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -32905,6 +33484,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -33001,7 +33582,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.7020002
+      value: -1.2181232
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -33009,11 +33590,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.207
+      value: -0.24097951
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -33021,7 +33602,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -33033,7 +33614,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -33102,6 +33683,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -33230,6 +33813,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -33358,6 +33943,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -33486,6 +34073,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -33614,6 +34203,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -33742,6 +34333,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -33870,6 +34463,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -34077,6 +34672,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -34205,6 +34802,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -34333,6 +34932,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -34517,7 +35118,7 @@ RectTransform:
   - {fileID: 978793063}
   - {fileID: 1104461877}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -34855,6 +35456,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -34983,6 +35586,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -35111,6 +35716,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -35239,6 +35846,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -35367,6 +35976,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -35495,6 +36106,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -35773,6 +36386,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -35901,6 +36516,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -36039,6 +36656,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -36167,6 +36786,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -36374,6 +36995,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -36502,6 +37125,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -36630,6 +37255,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: 3.6
+  max: 4.6
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -36758,6 +37385,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Silly Dancing
   Player: {fileID: 338587919}
@@ -36886,6 +37515,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -36982,7 +37613,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.0440001
+      value: -1.6885066
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -36990,11 +37621,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.447
+      value: 0.32771742
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -37002,7 +37633,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -37014,7 +37645,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -37083,6 +37714,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance
   Player: {fileID: 338587919}
@@ -37239,7 +37872,7 @@ Transform:
   - {fileID: 1954822627}
   - {fileID: 2051834298}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2138226529
 GameObject:
@@ -37387,7 +38020,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.3470002
+      value: -0.8708657
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -37395,11 +38028,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.207
+      value: -0.16724041
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70110345
+      value: 0.62280643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -37407,7 +38040,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.7130596
+      value: -0.78237593
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -37419,7 +38052,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.969
+      value: -102.957
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b902833940d5f4caab970e286fd18f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -37488,6 +38121,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Shuffling
   Player: {fileID: 338587919}
@@ -37752,6 +38387,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a07a583a49a73f4dac6e8abb796c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  min: -0.1
+  max: 0.25
   FM: {fileID: 1561412736}
   animationside: Hip Hop Dance 2
   Player: {fileID: 338587919}
@@ -37842,41 +38479,149 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1041841700221201033, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.919
+      objectReference: {fileID: 0}
+    - target: {fileID: 1041841700221201033, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.098
+      objectReference: {fileID: 0}
+    - target: {fileID: 1041841700907339221, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.919
+      objectReference: {fileID: 0}
+    - target: {fileID: 1041841700907339221, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.098
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605620336626, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.641
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605642488498, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 16.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605924410670, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.380617
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605924410670, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605924410670, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 13.465098
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605924410670, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.81338125
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605924410670, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.020061135
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605924410670, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.58114916
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605924410670, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.016560169
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605924410670, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.767
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605924410670, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -71.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605924410670, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 2.881
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199605995813364, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 17.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199606244989176, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.169
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199606730823811, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 17.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199606880410871, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.0005394
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199606880410871, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.0005394
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199606880410871, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.0005394
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199606880410871, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.1212
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037199607176493358, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 16.81
+      objectReference: {fileID: 0}
     - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5034758
+      objectReference: {fileID: 0}
+    - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5034758
+      objectReference: {fileID: 0}
+    - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5034758
       objectReference: {fileID: 0}
     - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.076
+      value: -7.6113997
       objectReference: {fileID: 0}
     - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9.7
+      value: 10.451
       objectReference: {fileID: 0}
     - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -12.545
+      value: -15.223022
       objectReference: {fileID: 0}
     - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.99978447
       objectReference: {fileID: 0}
     - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0.020763421
       objectReference: {fileID: 0}
     - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
+      value: -2.379
       objectReference: {fileID: 0}
     - target: {fileID: 3291275418485273062, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -37889,6 +38634,10 @@ PrefabInstance:
     - target: {fileID: 3291275418485273063, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
       propertyPath: m_Name
       value: Environment
+      objectReference: {fileID: 0}
+    - target: {fileID: 3291275418513483941, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff2f347f1af7e074386de2c3aa3891e9, type: 3}
@@ -37905,7 +38654,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.201
+      value: -1.82
       objectReference: {fileID: 0}
     - target: {fileID: 3471517646554951470, guid: b2506ac97a1192c44903835cc74ba6de, type: 3}
       propertyPath: m_LocalPosition.y

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FarmerManager : MonoBehaviour
 {
+    public Score score;
     public Transform Pigs2;
     public GameObject Farmer;
     public Transform Spawner;
@@ -14,6 +15,7 @@ public class FarmerManager : MonoBehaviour
     public GameObject Runner;
     public Transform FirstRunner;
     public GameObject currentrunner;
+    public float SavedPigs;
     // Start is called before the first frame update
 
     private void Start()
@@ -24,11 +26,16 @@ public class FarmerManager : MonoBehaviour
     {
         Farmer.GetComponent<Animator>().Play("Idle");
         transform.rotation = Player.transform.rotation;
-       currentrunner= Instantiate(Runner, FirstRunner.position, FirstRunner.rotation);
-        Destroy(currentrunner, 0.5f);
+     
     }
 
+    public void SpawnPig()
+    {
+        SavedPigs += 1;
+        currentrunner = Instantiate(Runner, FirstRunner.position, FirstRunner.rotation);
+        Destroy(currentrunner, 0.5f);
 
+    }
     public void WrongNote()
     {
 
@@ -42,5 +49,7 @@ public class FarmerManager : MonoBehaviour
     private void Update()
     {
         currentrunner = Runner;
+
+        
     }
 }

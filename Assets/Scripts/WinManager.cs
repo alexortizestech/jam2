@@ -2,9 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.UI;
 
 public class WinManager : MonoBehaviour
 {
+    public bool done;
+    public Button First;
     public Score score;
     public TextMeshProUGUI scr, fails, prc, saved;
     //public GameObject LastNote;
@@ -12,7 +15,7 @@ public class WinManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        done = false;
     }
 
     // Update is called once per frame
@@ -26,6 +29,15 @@ public class WinManager : MonoBehaviour
         {
             Time.timeScale = 0;
             Menu.SetActive(true);
+            if (done == false)
+            {
+                SelectCorrect2();
+            }
         }
+    }
+    public void SelectCorrect2()
+    {
+        First.Select();
+        done = true;
     }
 }
