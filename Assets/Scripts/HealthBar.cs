@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour
 {
+    bool done = false;
+    public Button First;
     public GameObject LoseMenu;
     public Slider Slider;
     public float currentLife = 100;
@@ -32,6 +34,17 @@ public class HealthBar : MonoBehaviour
             
             Time.timeScale = 0;
             LoseMenu.SetActive(true);
+            if (!done)
+            {
+                SelectCorrect();
+            }
+            
         }
+    }
+
+    public void SelectCorrect()
+    {
+        First.Select();
+        done = true;
     }
 }
