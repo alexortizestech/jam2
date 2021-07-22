@@ -8,7 +8,7 @@ public class BossTimer : MonoBehaviour
     public GameObject currentHolder;
     public GameObject ButtonsBoss;
     public GameObject HolderBoss;
-    public float Timer=20;
+    public float Timer=109;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,7 +18,7 @@ public class BossTimer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Time.time > Timer)
+        if (Time.timeSinceLevelLoad > Timer)
         {
             currentButtons.SetActive(false);
             currentButtons.SetActive(false);

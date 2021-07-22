@@ -22,7 +22,7 @@ public class WinManager : MonoBehaviour
         prc.text = "Percentage Hit: "+score.Percentage.ToString("F2") + " %";
         fails.text = "Dead Pigs: "+score.fails.ToString("F0");
         saved.text ="Saved Pigs: "+ score.savedPigs.ToString("F0");
-        if (Time.time>=125)
+        if (Time.timeSinceLevelLoad >= 125)
         {
             Time.timeScale = 0;
             Menu.SetActive(true);

@@ -7,6 +7,7 @@ using UnityEngine.UI;
 
 public class Score : MonoBehaviour
 {
+    public GameObject TutorialText;
     public MusicNotes mc;
     public TextMeshProUGUI prc;
     public Slider slider;
@@ -23,6 +24,7 @@ public class Score : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        TutorialText.SetActive(true);
         TotalCount = 0;
         currentScore = 0;
         GoodCount = 0;
@@ -36,7 +38,12 @@ public class Score : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.anyKey|| Time.timeSinceLevelLoad >= 4)
+        {
+            TutorialText.SetActive(false);
+        }
+
+
         currentScore += 1 * Time.deltaTime;
         text.text = "Score "+currentScore.ToString("F0");
         TotalCount = GoodCount*0.5f + GreatCount*0.75f + PerfectCount;

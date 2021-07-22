@@ -11,7 +11,9 @@ public class HealthBar : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Time.timeScale = 1;
+        currentLife = 100;
+
     }
 
     // Update is called once per frame
@@ -27,6 +29,7 @@ public class HealthBar : MonoBehaviour
 
         if (currentLife <= 0)
         {
+            
             Time.timeScale = 0;
             LoseMenu.SetActive(true);
         }

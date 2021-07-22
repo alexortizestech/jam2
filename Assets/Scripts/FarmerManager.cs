@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FarmerManager : MonoBehaviour
 {
+    public Transform Pigs2;
     public GameObject Farmer;
     public Transform Spawner;
     public GameObject SlashEffect;
@@ -31,7 +32,8 @@ public class FarmerManager : MonoBehaviour
     public void WrongNote()
     {
 
-        transform.LookAt(Pigs);
+        //  transform.LookAt(Pigs);
+        transform.rotation = Pigs2.transform.rotation;
         Instantiate(SlashEffect, Spawner.position, SlashEffect.transform.rotation);
         Scream.Play(); 
         Farmer.GetComponent<Animator>().Play("Attack");

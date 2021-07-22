@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PauseManager : MonoBehaviour
 {
+    public AudioSource music;
     public KeyCode Pause;
     public GameObject PauseMenu;
     // Start is called before the first frame update
@@ -18,6 +19,7 @@ public class PauseManager : MonoBehaviour
         if (Input.GetKey(Pause))
         {
             Time.timeScale = 0;
+            music.Pause();
             PauseMenu.SetActive(true);
         }
     }
@@ -27,6 +29,7 @@ public class PauseManager : MonoBehaviour
     public void Resume()
     {
         Time.timeScale = 1;
+        music.Play();
         PauseMenu.SetActive(false);
     }
 
